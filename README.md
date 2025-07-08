@@ -42,9 +42,8 @@ Contributions are welcome! Fork the repo and submit a pull request. Please follo
 
 ## Donations
 
-If you find this project useful, consider donating to help sustain development.
-
-- BTC: `bc1qq7tsvfkfcyaqy8jxz9n3v93h0uw6frw0p4jau5`
+If you find this project useful, please consider supporting development via
+[CYINT's GitHub Sponsors page](https://github.com/sponsors/CYINT).
 
 ## License
 
