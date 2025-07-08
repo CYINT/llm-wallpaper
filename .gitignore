@@ -1,0 +1,4 @@
+# Ignore generated images
+wallpaper.png
+screenshot.png
+__pycache__/
